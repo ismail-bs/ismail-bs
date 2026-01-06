@@ -57,17 +57,10 @@ I specialize in:
 <p align="center">
   <a href="https://www.linkedin.com/in/ismail-hosen/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
   <a href="https://twitter.com/ismailhosen61" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
-  <a href="https://fb.com/hosen61" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+  <!-- <a href="https://fb.com/hosen61" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/></a> -->
   <a href="https://www.codechef.com/users/hosen601" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/></a>
   <a href="https://codeforces.com/profile/raj61" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/></a>
 </p>
-
----
-
-## 📂 Portfolio & Resume
-
-- [Portfolio Projects](https://t.ly/Q9De)
-- [Resume (PDF)](https://drive.google.com/file/d/1FA6E1mJzmKxluTCI8ZmvYLtHYe-52pZ_/view?usp=sharing)
 
 ---
 
